@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CardGenPos
+  - UIProcessMsgBox
+  - UIScoreText
+  - UISelectTimer
+  - RoundMKPos
+  - UIGameMsgWindow
+  - UIGenerationFish
+  - FxTemporaire
+  - UIRoundBarFireAnimation
+  - UIItemUseBox
+  - UIItemUseSlotObj
+  - UIResultWnd
+  - UISettingWnd
+  - UICatMotion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MainBackground
+    uniqueID: 949800207
+    locked: 0
+  - name: LowLayerEffect
+    uniqueID: 3762372375
+    locked: 0
+  - name: AlarmBox
+    uniqueID: 3613516377
+    locked: 0
+  - name: Popup
+    uniqueID: 3983470453
+    locked: 0
+  - name: Result
+    uniqueID: 3868068053
+    locked: 0
+  - name: HighLayerEffect
+    uniqueID: 66604957
+    locked: 0
